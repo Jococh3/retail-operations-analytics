@@ -1,0 +1,1 @@
+WITH s AS (SELECT order_id,COUNT(DISTINCT seller_id) sellers FROM order_items GROUP BY order_id) SELECT sellers,COUNT(*) orders,AVG(late) late_rate FROM s JOIN order_fact USING(order_id) GROUP BY sellers;

@@ -1,0 +1,15 @@
+order_id,order_status,order_delivered_customer_date
+1950d777989f6a877539f53795b4c3c3,canceled,2018-03-21 22:03:51
+2d1e2d5bf4dc7227b3bfebb81328c15f,delivered,
+dabf2b0e35b423f94618bf965fcb7514,canceled,2016-10-16 14:36:59
+f5dd62b788049ad9fc0526e3ad11a097,delivered,
+2ebdfc4f15f23b91474edf87475f108e,delivered,
+770d331c84e5b214bd9dc70a10b829d0,canceled,2016-10-14 15:07:11
+8beb59392e21af5eb9547ae1a9938d06,canceled,2016-10-19 18:47:43
+e69f75a717d64fc5ecdfae42b2e8e086,delivered,
+0d3268bad9b086af767785e3f0fc0133,delivered,
+65d1e226dfaeb8cdc42f665422522d14,canceled,2016-11-08 10:58:34
+2d858f451373b04fb5c984a1cc2defaf,delivered,
+2c45c33d2f9cb8ff8b1c86cc28c11c30,canceled,2016-11-09 14:53:50
+ab7c89dc1bf4a1ead9d6ec1ec8968a84,delivered,
+20edc82cf5400ce95e1afacc25798b31,delivered,

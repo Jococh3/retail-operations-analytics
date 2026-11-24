@@ -1,0 +1,26 @@
+{
+  "orders": 99441,
+  "items": 112650,
+  "revenue": 13591643.7,
+  "freight": 2251909.54,
+  "eligible": 96476,
+  "late": 6535,
+  "late_rate": 0.06773705377503213,
+  "mean_days": 12.558702304032053,
+  "on_time_review": 4.290449944846913,
+  "late_review": 2.2719366969602004,
+  "on_time_n": 89448,
+  "late_n": 6382,
+  "mann_whitney_u": 467517085.5,
+  "p_value": 0.0,
+  "checks": {
+    "unique_orders": true,
+    "orders": true,
+    "items": true,
+    "revenue": true,
+    "freight": true,
+    "eligible": true,
+    "late": true,
+    "duration": true
+  }
+}

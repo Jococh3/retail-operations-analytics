@@ -1,0 +1,1 @@
+SELECT CASE WHEN delivery_days<7 THEN 'Under 7' WHEN delivery_days<14 THEN '7-13' WHEN delivery_days<30 THEN '14-29' ELSE '30+' END bucket,COUNT(*) orders,AVG(review_score) mean_review FROM order_fact WHERE eligible=1 GROUP BY 1;

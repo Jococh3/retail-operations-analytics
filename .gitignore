@@ -4,3 +4,8 @@ data/processed/
 __pycache__/
 .ipynb_checkpoints/
 ~$*.xlsx
+
+# Generated outputs
+*.sqlite
+
+docs/recruiter_and_interview.md
