@@ -27,4 +27,4 @@ The order fact has one row per order; item totals and review scores are aggregat
 
 ## Status
 
-SQL and Python reports have been executed and validated. Native Power BI and Tableau dashboards still need to be assembled and checked in their respective desktop applications. This expanded version was developed with AI assistance; review and rerun it before representing the new work as your own experience.
+SQL and Python reports have been executed and validated. Native Power BI and Tableau dashboards still need to be assembled and checked in their respective desktop applications.
